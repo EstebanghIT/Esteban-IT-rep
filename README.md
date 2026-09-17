@@ -49,6 +49,6 @@ Where a project describes a procedure I have studied or practiced rather than pr
 ## Contact
 
 **Esteban Gonzalez** 
-Drivers License B1
 Escazú, Costa Rica  
 e.gonzalez.it@gmail.com
+Drivers License B1
