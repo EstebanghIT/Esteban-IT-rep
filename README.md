@@ -2,7 +2,7 @@
 
 **Computing Engineering Student | IT Support | Windows & Linux | Networking | Cybersecurity**
 
-Escazú, Costa Rica | English C1 | Driver License B1
+Escazú, Costa Rica | English C1 | 
 CompTIA Security+ | Cisco CCNA Training | CCNP ENCOR Coursework | NDG Linux I
 
 ## About Me
@@ -48,6 +48,7 @@ Where a project describes a procedure I have studied or practiced rather than pr
 
 ## Contact
 
-**Esteban Gonzalez**  
+**Esteban Gonzalez** 
+Drivers License B1
 Escazú, Costa Rica  
 e.gonzalez.it@gmail.com
