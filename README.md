@@ -7,7 +7,7 @@ CompTIA Security+ | Cisco CCNA Training | CCNP ENCOR Coursework | NDG Linux I
 
 ## About Me
 
-I'm a Computing Engineering student interested in IT support, networking and cybersecurity. I enjoy troubleshooting and figuring out why something is not working instead of only applying a quick fix.
+I'm a Computing Engineering student interested in IT support, networking and cybersecurity. I enjoy learning, troubleshooting and figuring out why something is not working.
 
 This portfolio documents hands-on labs and support scenarios I can reproduce and explain in an interview. Each project includes the environment, commands or procedures used, verification steps and troubleshooting logic.
 
