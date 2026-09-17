@@ -2,7 +2,7 @@
 
 **Computing Engineering Student | IT Support | Windows & Linux | Networking | Cybersecurity**
 
-Escazú, Costa Rica | English C1  
+Escazú, Costa Rica | English C1 | Driver License B1
 CompTIA Security+ | Cisco CCNA Training | CCNP ENCOR Coursework | NDG Linux I
 
 ## About Me
@@ -20,6 +20,8 @@ This portfolio documents hands-on labs and support scenarios I can reproduce and
 | [Network Troubleshooting](projects/03-network-troubleshooting.md) | TCP/IP, VLANs, DHCP and Cisco troubleshooting | Cisco IOS commands, Windows diagnostics, fault isolation and verification |
 | [Linux Administration](projects/04-linux-administration.md) | Linux users, permissions, processes, services and networking | Linux CLI commands and verification |
 | [IT Asset & Security Workflow](projects/05-it-asset-security-workflow.md) | Asset inventory, lifecycle, patching and support process | Inventory schema, onboarding/offboarding checklist and security workflow |
+| [API & Postman Troubleshooting](projects/api-postman-troubleshooting.md) | REST API testing and basic application troubleshooting | Postman, GET/POST/PUT/DELETE requests, JSON responses, HTTP status codes and error analysis |
+| [SQL Support Troubleshooting](projects/sql-support-troubleshooting.md) | Database queries for application and support investigations | SQL, SELECT, WHERE, ORDER BY, JOIN, data verification and troubleshooting |
 
 ## Core Skills
 
@@ -48,4 +50,4 @@ Where a project describes a procedure I have studied or practiced rather than pr
 
 **Esteban Gonzalez**  
 Escazú, Costa Rica  
-ghidalgo.e23@gmail.com
+e.gonzalez.it@gmail.com
