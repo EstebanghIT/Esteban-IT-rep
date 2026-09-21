@@ -32,6 +32,7 @@ This portfolio documents hands-on labs and support scenarios I can reproduce and
 **Linux:** Ubuntu, Kali Linux, CLI, users/groups, permissions, processes, services and networking  
 **Security:** CompTIA Security+, vulnerability assessment fundamentals, Nmap, IDS/IPS and access-control concepts  
 **Tools:** Jira, VMware, Cisco Packet Tracer, GNS3, Nmap, OpenVPN
+
 **API & Application Support:** REST API fundamentals, Postman, GET/POST/PUT/DELETE requests, JSON, HTTP status codes, request/response analysis and basic API troubleshooting  
 **SQL & Data Validation:** Basic SQL, SELECT, WHERE, ORDER BY, JOIN, filtering records, data verification and basic troubleshooting  
 **Python & Automation:** Python fundamentals, basic scripting, functions, conditionals, loops, exception handling, system information collection, log parsing and CSV reporting  
