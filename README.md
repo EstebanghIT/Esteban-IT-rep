@@ -22,6 +22,7 @@ This portfolio documents hands-on labs and support scenarios I can reproduce and
 | [IT Asset & Security Workflow](projects/05-it-asset-security-workflow.md) | Asset inventory, lifecycle, patching and support process | Inventory schema, onboarding/offboarding checklist and security workflow |
 | [API & Postman Troubleshooting](projects/api-postman-troubleshooting.md) | REST API testing and basic application troubleshooting | Postman, GET/POST/PUT/DELETE requests, JSON responses, HTTP status codes and error analysis |
 | [SQL Support Troubleshooting](projects/sql-support-troubleshooting.md) | Database queries for application and support investigations | SQL, SELECT, WHERE, ORDER BY, JOIN, data verification and troubleshooting |
+| [Python IT Support Automation](projects/python-it-support-automation.md) | Basic Python automation for IT support and troubleshooting tasks | Python, system information collection, IPv4 validation, connectivity testing, log parsing, CSV reporting and exception handling |
 
 ## Core Skills
 
@@ -31,6 +32,9 @@ This portfolio documents hands-on labs and support scenarios I can reproduce and
 **Linux:** Ubuntu, Kali Linux, CLI, users/groups, permissions, processes, services and networking  
 **Security:** CompTIA Security+, vulnerability assessment fundamentals, Nmap, IDS/IPS and access-control concepts  
 **Tools:** Jira, VMware, Cisco Packet Tracer, GNS3, Nmap, OpenVPN
+**API & Application Support:** REST API fundamentals, Postman, GET/POST/PUT/DELETE requests, JSON, HTTP status codes, request/response analysis and basic API troubleshooting  
+**SQL & Data Validation:** Basic SQL, SELECT, WHERE, ORDER BY, JOIN, filtering records, data verification and basic troubleshooting  
+**Python & Automation:** Python fundamentals, basic scripting, functions, conditionals, loops, exception handling, system information collection, log parsing and CSV reporting  
 
 ## How to Read This Portfolio
 
