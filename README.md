@@ -24,6 +24,8 @@ This portfolio documents hands-on labs and support scenarios I can reproduce and
 | [SQL Support Troubleshooting](projects/sql-support-troubleshooting.md) | Database queries for application and support investigations | SQL, SELECT, WHERE, ORDER BY, JOIN, data verification and troubleshooting |
 | [Python IT Support Automation](projects/python-it-support-automation.md) | Basic Python automation for IT support and troubleshooting tasks | Python, system information collection, IPv4 validation, connectivity testing, log parsing, CSV reporting and exception handling |
 
+| [Splunk SOC Log Analysis](projects/splunk-soc-log-analysis.md) | SOC monitoring and authentication log investigation using Splunk | Splunk, SPL, SIEM, log analysis, brute-force detection, dashboards and alerts |
+
 ## Core Skills
 
 **IT Support:** Windows troubleshooting, user support, incident documentation, hardware/peripheral troubleshooting fundamentals  
