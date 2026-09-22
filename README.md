@@ -37,6 +37,7 @@ This portfolio documents hands-on labs and support scenarios I can reproduce and
 **API & Application Support:** REST API fundamentals, Postman, GET/POST/PUT/DELETE requests, JSON, HTTP status codes, request/response analysis and basic API troubleshooting  
 **SQL & Data Validation:** Basic SQL, SELECT, WHERE, ORDER BY, JOIN, filtering records, data verification and basic troubleshooting  
 **Python & Automation:** Python fundamentals, basic scripting, functions, conditionals, loops, exception handling, system information collection, log parsing and CSV reporting  
+**SOC & SIEM:** Splunk, SPL, SIEM fundamentals, security log analysis, event filtering, authentication monitoring, failed login investigation, brute-force detection, incident triage, dashboard creation and basic alert configuration
 
 ## How to Read This Portfolio
 
